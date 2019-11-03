@@ -1,0 +1,5 @@
+# FIXED
+
+SRC/LCD12864.obj: ../SRC/LCD12864.c
+
+../SRC/LCD12864.c: 

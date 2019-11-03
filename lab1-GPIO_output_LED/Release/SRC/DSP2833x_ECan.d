@@ -1,0 +1,5 @@
+# FIXED
+
+SRC/DSP2833x_ECan.obj: ../SRC/DSP2833x_ECan.c
+
+../SRC/DSP2833x_ECan.c: 
